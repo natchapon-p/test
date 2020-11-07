@@ -1,1 +1,6 @@
-
+public class AreaCalculator() {
+    // รับผิดชอบคำนวนพื้นที่
+    public int calcArea(Circle circle) ...
+    // รับผิดชอบแสดงพื้นที่บนหน้าจอ
+    public void outputArea() ...
+}
